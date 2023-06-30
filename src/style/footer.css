@@ -1,0 +1,12 @@
+footer {
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 10vh;
+    color:rgb(255, 255, 255);
+    font-family: Montserrat;
+    background-image: linear-gradient(260deg, #680387  0%, #000000 46%, #000000 100%);
+}

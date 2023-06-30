@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+h1,h2,h6,small,p{
+    margin: 0;
+    padding: 0;
+}
